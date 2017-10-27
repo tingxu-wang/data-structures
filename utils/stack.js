@@ -1,3 +1,6 @@
+/*
+* 栈
+* */
 const items = new WeakMap();
 
 class Stack {
